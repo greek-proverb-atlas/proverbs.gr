@@ -6,6 +6,7 @@
 * Only the text, the collector, and the place the proverb was collected from are used.
 * We share [here](https://ipavlopoulos.github.io/paremia/data/) a subset of 11,500 proverbs, balanced across locations, used in our experiments.
 * A preprint can be found in: https://www.researchsquare.com/article/rs-3360387/
+* English translations of the balanced subset, using Llama-3.1-8B-Instruct, are included in the repository.
 
 ## The findings
 * We show how proverbs are shared not only temporally, from generation to generation, but also spatially, from location to location.
@@ -14,6 +15,8 @@
 * We publish [a map with clickable pins](https://nbviewer.org/github/ipavlopoulos/paremia/blob/main/misc/frequent_ngrams.html), showing terms frequent in one location but not in the rest.
 * We provide a benchmark in attribution.
 * We use conformal prediction to attribute the possible locations of proverbs whose location was unregistered today.
+
+---
 
 Please cite us as: 
 ```
