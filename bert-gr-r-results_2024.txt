@@ -1,0 +1,9 @@
+MAE
+lat: 1.30
+lon: 1.67
+MSE
+lat: 2.68
+lon: 4.58
+R2
+lat: -1.79
+lon: -0.70
